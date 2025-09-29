@@ -7,10 +7,10 @@ body {
   color: #eee;
   line-height: 1.6;
   background-image: url('assets/background.jpg'); 
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  
 }
 
 
@@ -430,3 +430,4 @@ summary::marker {
   border-radius: 50%;
   border: 3px solid var(--color-accent);
 }
+
