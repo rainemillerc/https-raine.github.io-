@@ -8,7 +8,7 @@ body {
   line-height: 1.6;
   background-image: url('assets/background.jpg'); 
   background-attachment: fixed;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -430,6 +430,7 @@ summary::marker {
   border-radius: 50%;
   border: 3px solid var(--color-accent);
 }
+
 
 
 
